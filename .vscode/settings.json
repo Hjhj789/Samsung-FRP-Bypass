@@ -1,4 +1,19 @@
-}{
+```jsonc
+{
+  // This JSON configuration file is intended to provide settings and parameters 
+  // for the application. It contains key-value pairs that specify various 
+  // options such as environment settings, feature toggles, and other 
+  // customizable elements. The comments within the file are included to 
+  // guide users in understanding and modifying the configuration as needed.
+}
+```jsonc
+{
+  // This JSONC file contains configuration settings for the application.
+  // Each key-value pair represents a specific setting that can be adjusted
+  // to modify the application's behavior. Comments are included to explain
+  // the purpose of each setting and guide users in making appropriate changes.
+}
+``````}{
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
     ]
